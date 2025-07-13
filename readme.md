@@ -21,7 +21,7 @@ This is a simple music player app implemented in pure Python.
 1. Then you will find the app in the dist folder, if everything goes well.  
    然后你就能在dist文件夹里找到app（如果一切顺利的话）
 
-**Releases**
+**Releases**  
 Or check the Releases page. 
 或者查看发行页
 
