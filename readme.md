@@ -2,10 +2,13 @@
 This is a simple music player app implemented in pure Python.  
 这是一个超级无敌简陋的音乐播放器，完全由Python实现  
 ## Screenshots/截图 
-**1**  
-   <img width="1127" height="665" alt="image" src="https://github.com/user-attachments/assets/3c7b69e9-2c43-42eb-83ed-27473906589c" />
-**2**  
-   <img width="1127" height="665" alt="image" src="https://github.com/user-attachments/assets/e39aca83-5a0c-4dc2-b374-1420f7584c7e" />
+<div align=center>
+<img width="564" height="333" alt="image" src="https://github.com/user-attachments/assets/3c7b69e9-2c43-42eb-83ed-27473906589c">
+</div>
+<div align=center>
+<img width="564" height="333" alt="image" src="https://github.com/user-attachments/assets/e39aca83-5a0c-4dc2-b374-1420f7584c7e">
+</div>
+   
 
 ## How to use/使用方法
 **build manually/手动编译**
